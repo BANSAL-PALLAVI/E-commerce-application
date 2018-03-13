@@ -1,0 +1,41 @@
+form{
+	font-family : "Courier New";
+	font-weight : bold;
+	font-size : 20px; 
+	color : white; 
+}
+
+#div1{
+	text-align : center;
+	height : 50%;
+	margin-top : 200px;
+	margin-left : 400px;
+	margin-right : 350px;
+	background-color : black;
+	border : 2px solid grey;
+	border-radius : 20px;
+}
+
+h2{
+	text-align : center;
+	font-family : "Courier New";
+	font-weight : bolder;
+	font-size : 30px;  
+	color : white;
+}
+
+#login{
+	background-color : green;
+	font-weight : bold;
+	padding : 3px;
+	color: white;
+	border : 1px solid darkgreen;
+	width : 100px;
+	margin-top : 30px;
+}
+
+body{
+background-image  : url("leaves.jpg");
+background-repeat : no-repeat ;
+background-size : 1470px 800px;
+}
